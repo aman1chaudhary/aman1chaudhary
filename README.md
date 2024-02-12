@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Aman Chaudhary</h1>
-<h2 align="left">A passionate frontend and WebGIS developer.</h3>
+<h2 align="left">A Full Stack WebGIS developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman1chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="aman1chaudhary" /> </p>
